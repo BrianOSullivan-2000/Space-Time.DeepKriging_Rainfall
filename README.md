@@ -7,12 +7,9 @@ Here, we apply SpatioTemporal DeepKriging to a Rainfall dataset using a non-regu
 
 ## Citation  
 
-If you use this code, please cite the following paper:  
+If you use this code, please cite the original paper:  
 
-**Nag, P., et al. (2023).**  
-*Spatio-temporal DeepKriging for Interpolation and Probabilistic Forecasting*.  
+Nag, P., et al. (2023).  
+Spatio-temporal DeepKriging for Interpolation and Probabilistic Forecasting.  
 Spatial Statistics, 100773.  
-[https://doi.org/10.1016/j.spasta.2023.100773](https://doi.org/10.1016/j.spasta.2023.100773)  
-ime.DeepKriging.git
-   cd Space-Time.DeepKriging
----
+[https://doi.org/10.1016/j.spasta.2023.100773](https://doi.org/10.1016/j.spasta.2023.100773)
